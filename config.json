@@ -1,0 +1,8 @@
+{
+    
+    "connectionStringMlab": "mongodb://kamina:hirosh1@ds245532.mlab.com:45532/rest_api_tiket",
+    "connectionStringLocal": "mongodb://localhost:27017/rest_api_tiket",
+    "secret": "THIS IS USED TO SIGN AND VERIFY JWT TOKENS, REPLACE IT WITH YOUR OWN SECRET, IT CAN BE ANY STRING",
+    
+    "defaultPageListSize": "5"
+}
